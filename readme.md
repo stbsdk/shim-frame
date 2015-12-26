@@ -9,14 +9,14 @@ Shim for window.requestAnimationFrame
 Pure JavaScript implementation of window.requestAnimationFrame method.
 
 
-## Installation
+## Installation ##
 
 ```bash
 npm install stb-shim-frame
 ```
 
 
-## Usage
+## Usage ##
 
 Apply shim for window.requestAnimationFrame:
 
@@ -25,12 +25,12 @@ require('stb-shim-frame');
 ```
 
 
-## Contribution
+## Contribution ##
 
 If you have any problem or suggestion please open an issue [here](https://github.com/stbsdk/shim-frame/issues).
 Pull requests are welcomed with respect to the [JavaScript Code Style](https://github.com/DarkPark/jscs).
 
 
-## License
+## License ##
 
 `stb-shim-frame` is released under the [GPL-3.0 License](http://opensource.org/licenses/GPL-3.0).
