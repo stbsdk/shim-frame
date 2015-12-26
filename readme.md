@@ -6,7 +6,7 @@ Shim for window.requestAnimationFrame
 [![Gitter](https://img.shields.io/badge/gitter-join%20chat-blue.svg?style=flat-square)](https://gitter.im/DarkPark/stb)
 
 
-`stb-shim-frame` is a pure JavaScript implementation of window.requestAnimationFrame method.
+Pure JavaScript implementation of window.requestAnimationFrame method.
 
 
 ## Installation
