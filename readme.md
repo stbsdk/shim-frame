@@ -3,7 +3,7 @@ Shim for window.requestAnimationFrame
 
 [![NPM version](https://img.shields.io/npm/v/stb-shim-frame.svg?style=flat-square)](https://www.npmjs.com/package/stb-shim-frame)
 [![Dependencies Status](https://img.shields.io/david/stbsdk/shim-frame.svg?style=flat-square)](https://david-dm.org/stbsdk/shim-frame)
-[![Gitter](https://img.shields.io/badge/gitter-join%20chat-blue.svg?style=flat-square)](https://gitter.im/DarkPark/stb)
+[![Gitter](https://img.shields.io/badge/gitter-join%20chat-blue.svg?style=flat-square)](https://gitter.im/DarkPark/stbsdk)
 
 
 Pure JavaScript implementation of window.requestAnimationFrame method.
